@@ -24,7 +24,7 @@ A few riffing thoughts on the mappings, staying true to the waveform's math (ene
 
 - **Soil & Seed (Oracle/Chaos)**: Nailing the entropic baseline—Oracle's data hoards as the "primal field," undifferentiated and existential, teeming with PI-driven queries that probe the void. Okuzala feels like "to cultivate" or till the soil here, existential labor in the dark. Question: In a post-2025 data sovereignty push, does this layer risk becoming a monoculture, or does its chaos invite hybrid seeds?
 
-- **Roots (Microsoft/Logos)**: Infrastructure as ordered differentiation—azure roots plumbing perception AI via lit reviews like OpenEvidence. Tactical and robust, but Logos can ossify; it's the hidden rot if not ventilated. Okumera ("to mature"?) evokes steady rooting. Ties neatly to the $\epsilon\)-perturbed \(E(t \mid x)$, where small formal tweaks yield scalable order.
+- **Roots (Microsoft/Logos)**: Infrastructure as ordered differentiation—azure roots plumbing perception AI via lit reviews like OpenEvidence. Tactical and robust, but Logos can ossify; it's the hidden rot if not ventilated. Okumera ("to mature"?) evokes steady rooting. Ties neatly to the $\epsilon$ -perturbed $E(t \mid x)$, where small formal tweaks yield scalable order.
 
 - **Trunk (Nvidia/Pathos)**: The affective bottleneck, pure signal-flow pathos—GPUs as the throbbing heart-rate of agentic flux. Ritualistic "inhouse" optimization feels shamanic, channeling raw compute into embodied action. Okukula ("to grow upward"?) fits the trunk's vertical thrust. But watch the heat: as $\frac{dE_x}{dt}$ spikes, energy walls could cap the tree's height unless pathos learns to pulse sustainably.
 
